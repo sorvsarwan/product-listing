@@ -1,0 +1,46 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_40,w_210,c_limit,fl_progressive/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+            "brand": "HRX by Hrithik Roshan",
+            "title": "Printed Round Neck T-Shirt",
+            "price": 559
+        },
+        {
+            "id": 2,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1697714/2020/1/22/3a66abd7-a7bd-462e-ba8a-ce60cdbe576b1579690524370-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-1.jpg",
+            "brand": "Roadster",
+            "title": "Men Striped Round Neck T-shirt",
+            "price": 489
+        },
+        {
+            "id": 3,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11363234/2020/2/25/f4aab980-34ee-4adc-a77e-30d07610155d1582622402835-WROGN-Men-Tshirts-3111582622400726-1.jpg",
+            "brand": "WROGN",
+            "title": "Striped Slim Fit T-shirt",
+            "price": 959
+        },
+        {
+            "id": 4,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_40,w_210,c_limit,fl_progressive/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+            "brand": "HRX by Hrithik Roshan",
+            "title": "Printed Round Neck T-Shirt",
+            "price": 559
+        },
+        {
+            "id": 5,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1697714/2020/1/22/3a66abd7-a7bd-462e-ba8a-ce60cdbe576b1579690524370-Roadster-Men-Maroon--Navy-Blue-Striped-Round-Neck-T-shirt-93-1.jpg",
+            "brand": "Roadster",
+            "title": "Men Striped Round Neck T-shirt",
+            "price": 489
+        },
+        {
+            "id": 6,
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11363234/2020/2/25/f4aab980-34ee-4adc-a77e-30d07610155d1582622402835-WROGN-Men-Tshirts-3111582622400726-1.jpg",
+            "brand": "WROGN",
+            "title": "Striped Slim Fit T-shirt",
+            "price": 959
+        }
+    ]
+}

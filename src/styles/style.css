@@ -1,0 +1,31 @@
+.logo {
+    width: 52%;
+    float: left;
+}
+.navbar-brand {
+    width: 10%;
+}
+.navbar-nav {
+    font-weight: 600;
+}
+
+.product.card{
+    float: left;
+    width: 15rem;
+    margin: 1rem;
+}
+.product-action {
+    font-size: 12px;
+    margin-left: 5px;
+    color: black;
+}
+.add-to-bag,
+.add-to-bag:hover {
+    background-color: #ff3e6c;
+    color: white;
+    border: 0;
+}
+.wishlist, .wishlist:hover {
+    background-color: white;
+    color: black;
+}
